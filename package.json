@@ -40,7 +40,7 @@
     "vite-plugin-ejs": "1.7.0",
     "vite-plugin-pwa": "0.21.1",
     "vite-plugin-svgr": "4.2.0",
-    "vitest": "3.0.6",
+    "vitest": "4.1.11",
     "vitest-canvas-mock": "0.3.3"
   },
   "engines": {
